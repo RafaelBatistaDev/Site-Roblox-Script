@@ -1,0 +1,25 @@
+img {
+  width: 200px;
+  border-radius: 100px;
+  float: left;
+  margin-right: 30px;
+}
+
+p.Delta-Executor-v2 {
+  font-weight: bold;
+  font-size: 20px;
+  color: #333;
+}
+.icone {
+  width: 24px;
+  height: 24px;
+  background-image: url('icone-casa.svg');
+}
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #666666;
+}
+.centralizado {
+    text-align: center;
+  }
